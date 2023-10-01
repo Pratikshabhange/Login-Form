@@ -1,2 +1,2 @@
 # Login-Form
-Creating the login form using HTTML and CSS
+Creating the login form using HTML and CSS
